@@ -49,6 +49,8 @@ Dentro del archivo “[reconocimientosEmociones.py](https://github.com/ManuEly19
 
 Como resultado obtendremos el reconocimiento de sus emociones en tiempo real.
 
+![image](https://user-images.githubusercontent.com/74938678/187808820-9faa7409-c770-4fc7-ad40-660b22200fe9.png)
+
 ## Referencias
 
 [1] 	G. Solano, «Omes,» 02 jul 2022. [En línea]. Available: https://omes-va.com/reconocimiento-de-emociones-opencv-python/. [Último acceso: 31 ago 2022].
