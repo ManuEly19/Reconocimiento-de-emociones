@@ -32,7 +32,7 @@ Dentro del archivo debemos asegurarnos de que una de las siguientes líneas de c
 
 ![image](https://user-images.githubusercontent.com/74938678/187807375-01c53cc8-1a42-4d32-87ba-8fe37c67d929.png)
 
-Como resultado de esta acción crearemos subcarpetas de imágenes con los nombres de cada emoción. 
+La cámara se encenderá y deberas replicar con tu rostro la emoción que este sin comentar. Como resultado de esta acción crearemos subcarpetas de imágenes con los nombres de cada emoción, estas carpetas servirán para entrenar los modelos de reconocimiento de emociones.  
 
 ![image](https://user-images.githubusercontent.com/74938678/187807397-390da892-f89e-4cbf-a291-73f56b19c983.png)
 
