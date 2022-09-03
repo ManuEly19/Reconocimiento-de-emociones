@@ -1,4 +1,10 @@
 # Reconocimiento-de-emociones
+
+Video de Explicación y Funcionalidad: https://youtu.be/n-Qi77-4QCk 
+
+Video de Manual de Usuario: https://youtu.be/lpGNHv_qRFs 
+
+---
 ### Integrantes:
 - Auqui Manuel
 - Guambo Leoni
