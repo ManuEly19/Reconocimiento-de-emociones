@@ -4,6 +4,8 @@ Video de Explicación y Funcionalidad: https://youtu.be/n-Qi77-4QCk
 
 Video de Manual de Usuario: https://youtu.be/lpGNHv_qRFs 
 
+Informe del Proyecto [click aquí.](https://github.com/ManuEly19/Reconocimiento-de-emociones/blob/master/IA-MAuqui-LGuambo-MMendez-JOrtiz-LValencia-DetectorEmociones.pdf)
+
 ---
 ### Integrantes:
 - Auqui Manuel
